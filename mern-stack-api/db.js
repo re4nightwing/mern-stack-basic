@@ -3,7 +3,7 @@ const dotenv = require('dotenv')
 
 dotenv.config()
 
-mongoose.connect('mongodb+srv://dulan:good@cluster0.k7gxi.mongodb.net/blogDB?retryWrites=true&w=majority',{useNewUrlParser: true, useUnifiedTopology:true},
+mongoose.connect('//connetion URI',{useNewUrlParser: true, useUnifiedTopology:true},
     err => {
         if(!err)
             console.log("DB connected!")
