@@ -1,11 +1,6 @@
-.htaccess
-css.php
-rpc/
-sites/site*/admin/
-sites/site*/private/
-sites/site*/public/admin/
-sites/site*/public/setup/
-sites/site*/public/theme/
-textpattern/
-HISTORY.txt
-README.txt
+mern-stack-client\node_modules\
+mern-stack-api\node_modules\
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
