@@ -1,7 +1,5 @@
-mern-stack-client\node_modules\
-mern-stack-client\node_modules
-mern-stack-api\node_modules\
-mern-stack-api\node_modules
+node_modules/
+node_modules
 
 npm-debug.log*
 yarn-debug.log*
